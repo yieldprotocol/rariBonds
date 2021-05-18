@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.1;
 
-import "@yield-protocol/utils-v2/contracts/access/Ownable.sol";
-import "@yield-protocol/utils-v2/contracts/token/ERC20.sol";
+import "../access/Ownable.sol";
+import "../token/ERC20.sol";
 import "@uniswap/lib/contracts/libraries/TransferHelper.sol";
 import "./IBasicFYToken.sol";
 

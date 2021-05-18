@@ -14,8 +14,6 @@
     "hardhat": "^2.0.6"
   },
   "dependencies": {
-    "@uniswap/lib": "^4.0.1-alpha",
-    "@yield-protocol/utils-v2": "^2.2.5",
-    "@yield-protocol/vault-interfaces": "^2.0.28"
+    "@uniswap/lib": "^4.0.1-alpha"
   }
 }
